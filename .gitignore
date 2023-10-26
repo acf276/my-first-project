@@ -1,0 +1,7 @@
+
+#excluir TODA la carpeta "data"
+data/
+#excluir solo este CSV
+data/dataset.csv
+
+data/
