@@ -5,3 +5,9 @@ data/
 data/dataset.csv
 
 data/
+
+#
+config.json
+
+#una vez subido solo se pueden sacar
+# git restore --staged data/validate.csv
